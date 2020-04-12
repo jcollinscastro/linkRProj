@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586705617095.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2152252191",
+    "id" : "71E88B23",
+    "lastKnownWriteTime" : 1586705633,
+    "last_content_update" : 1586705633769,
+    "path" : "~/rStudio/linkRProj/testFile.R",
+    "project_path" : "testFile.R",
+    "properties" : {
+        "cursorPosition" : "0,26",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
